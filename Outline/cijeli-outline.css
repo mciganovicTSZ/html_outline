@@ -1,0 +1,10 @@
+.cijeli{
+    p{
+        width: 500px;
+        height: 300px;
+        padding: 10px 40px;
+        border: 10px dashed aqua;
+        margin: 20px 25px;
+        outline: gold dotted;
+    }
+}
